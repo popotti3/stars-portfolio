@@ -18,6 +18,10 @@ body{
   border-radius: 8px;
   padding: 5px;
 }
+.fluid_container{
+  margin: auto;
+  padding: 30px;
+}
 
 .element img {
   border: 1px solid #ddd;
