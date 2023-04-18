@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/stars-portfolio/static/css/main.c197d5cc.css",
+    "main.js": "/stars-portfolio/static/js/main.ff963f4b.js",
+    "index.html": "/stars-portfolio/index.html",
+    "main.c197d5cc.css.map": "/stars-portfolio/static/css/main.c197d5cc.css.map",
+    "main.ff963f4b.js.map": "/stars-portfolio/static/js/main.ff963f4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c197d5cc.css",
+    "static/js/main.ff963f4b.js"
+  ]
+}
